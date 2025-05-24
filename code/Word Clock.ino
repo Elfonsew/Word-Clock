@@ -17,8 +17,8 @@
 #define BRIGHTNESS    255                       // runtime brightness
 constexpr CRGB CLOCK_COLOR = CRGB(255, 229, 5); // warm yellow (no blue)
 
-const char* SSID     = "nvjumpstarter-iot";
-const char* PASSWORD = "[J28gYtl!VYw";
+const char* SSID     = ""; 
+const char* PASSWORD = "";
 const char* NTP_POOL = "pool.ntp.org";
 
 // ───────────────────────── GLOBALS ────────────────────────────────
